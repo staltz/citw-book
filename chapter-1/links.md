@@ -15,12 +15,13 @@ The following links are useful for getting more information on the development t
 
 - [Xcode (for iOS)](https://developer.apple.com/xcode/)
 - [Android Studio](https://developer.android.com/studio/)
-- [Expo editor (Snack)](https://snack.expo.io/)
+- [Expo web editor (Snack)](https://snack.expo.io/)
+- [Expo mobile client](https://expo.io/tools#client)
 - [React DevTools](https://github.com/facebook/react-devtools)
 
-## Apps
+## For this training
 
-- [Expo client](https://expo.io/tools#client)
+- [Presentation slides](https://speakerdeck.com/staltz/react-native-for-mobile-development)
 - [Recipe Explorer demo](https://github.com/staltz/citw-demo)
 
 ## Community resources
