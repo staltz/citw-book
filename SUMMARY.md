@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Monday](chapter-1/README.md)
+    * [Code of conduct](chapter-1/code-of-conduct.md)
     * [Schedule](chapter-1/schedule.md)
     * [Links](chapter-1/links.md)
     * [Equipment](chapter-1/equipment.md)
