@@ -1,6 +1,6 @@
 # Exercise
 
-Now is your turn! Let's build something real with React Native. Pick an [open data backend](https://github.com/toddmotto/public-apis), invent a nice idea, then build a simple app that uses that data.
+Now is your turn! Let's build something real with React Native. Pick an [open data backend](https://github.com/toddmotto/public-apis), invent a nice idea, then build a simple app that uses that data. As a reference, check the [source code for the Recipe Explorer app](https://github.com/staltz/citw-demo).
 
 As a tip, most apps have:
 
