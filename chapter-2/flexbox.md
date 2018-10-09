@@ -18,7 +18,7 @@ With Flexbox, you need to first define the **direction** of a container: `row` (
 
 ```
 +----------------------+
-|  flexDirection: row  |
+|flexDirection: column |
 |                      |
 |+--------------------+|
 ||                    ||
